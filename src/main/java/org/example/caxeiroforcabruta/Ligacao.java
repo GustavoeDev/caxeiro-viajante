@@ -1,4 +1,4 @@
-package org.example;
+package org.example.caxeiroforcabruta;
 
 public class Ligacao<K> {
 
